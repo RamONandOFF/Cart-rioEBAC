@@ -1,4 +1,4 @@
-# Cart-rioEBAC
+# CartorioEBAC
 
 Este foi um primeiro contato com a linguagem C que tive no curso da EBAC
 
